@@ -111,6 +111,14 @@ python pipeline/wgs_pipeline.py \
 
 11_Flagstat/
 
+run_pipeline
+
+python pipeline/wgs_pipeline.py \
+-i FASTQ \
+-r reference/hg38 \
+-o Results \
+-t 16
+
 ## Author
 
 Sneha Goel
