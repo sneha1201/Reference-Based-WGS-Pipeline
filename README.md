@@ -78,9 +78,6 @@ MultiQC Report
 - Mosdepth
 - MultiQC
 
-## Installation
-
-...
 
 ## Usage
 
