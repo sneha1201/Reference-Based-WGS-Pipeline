@@ -1,5 +1,8 @@
 # Reference-Based-WGS-Pipeline
 Reference-Based-WGS-Pipeline
+
+An automated reference-based Whole Genome Sequencing (WGS) analysis pipeline for quality control, read trimming, alignment, duplicate marking, coverage estimation, GATK variant calling, variant filtering, and MultiQC reporting.
+
 # Reference-Based WGS Variant Calling Pipeline
 
 ## Overview
